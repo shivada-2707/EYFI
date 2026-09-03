@@ -1,4 +1,4 @@
-
+ try out: agent-6a991fc4bcd23fca5--tubular-capybara-cd38ab.netlify.app/
 # EYFI — Student Earnings & Leaderboard Platform
 
 > A modern web application designed to track, review, and visualize student earnings through a competitive leaderboard experience.
