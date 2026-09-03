@@ -8,8 +8,11 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#tech-stack)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#tech-stack)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-Styling-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](#tech-stack)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://agent-6a991fc4bcd23fca5--tubular-capybara-cd38ab.netlify.app/)
 
 <sub>A modern, full-stack platform for tracking, verifying, and visualizing student earnings through a competitive leaderboard.</sub>
+
+**🔗 [Live Demo](https://agent-6a991fc4bcd23fca5--tubular-capybara-cd38ab.netlify.app/)**
 
 </div>
 
